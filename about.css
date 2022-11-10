@@ -1,0 +1,15 @@
+*{
+    
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'monospace';
+}
+body{
+    background-color:rgb(228, 215, 199);
+    height: 100vh;
+
+}
+.images {
+  padding-top: 40px;
+  padding-left: 310px;
+}
