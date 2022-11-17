@@ -178,7 +178,7 @@ a:focus {
 	counter-increment: figure;
 	content: counter(figure, decimal-leading-zero);
 	position: absolute;
-	font-family: paralucent, sans-serif;
+	font-family: 'monospace'
 	font-size: 10rem;
 	color: var(--color-deco);
 	bottom: calc(100% - 3rem);
@@ -245,7 +245,7 @@ a:focus {
 
 .item:nth-child(9) .item__img-wrap {
 	--aspect-ratio: 60/75;
-	--image: url();
+	--image: url(img/1112spread.jpg);
 }
 
 .item__img {
